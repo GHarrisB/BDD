@@ -1,0 +1,147 @@
+id,nombre,ciudad,pais,capacidad
+0,powerstation 33,auckland,nueva zelanda,5773
+1,euskalduna bilbao,bilbao,espana,13422
+2,estadio bicentario de la florida,santiago,chile,8796
+3,antel arena,buenos aires,argentina,11726
+4,teatro municipal de santiago,santiago,chile,14137
+5,aotea centre,auckland,nueva zelanda,7652
+6,movistar arena,santiago,chile,12413
+7,estadio nemesio camacho,cundinamarca,colombia,6074
+8,barclaycard arena,hamburg,alemania,6083
+9,wilterm theatre,los angeles,estados unidos,10222
+10,astra kulturhaus,berlin,alemania,12343
+11,bilbao arena,bilbao,espana,5487
+12,qudos bank arena,sydney,autralia,10417
+13,ftx arena,miami,estados unidos,10583
+14,carrer baix vinalopo,mislata,espana,7646
+15,teatro caupolican,santiago,chile,7561
+16,teatro mayor,bogota,colombia,9216
+17,sala cool madrid,madrid,espana,5160
+18,dodger stadium,los angeles,estados unidos,11741
+19,vibra sao paulo,sao paulo,brasil,6376
+20,teatro coliseo,santiago,chile,8070
+21,fpl solar amphitheater,miami,estados unidos,6382
+22,mercedes-benz arena,berlin,alemania,6961
+23,espacio unimed,sao paulo,brasil,10782
+24,pabellon max schmeling,berlin,alemania,10640
+25,arena tsb bank,wellington,nueva zelanda,9282
+26,arena ludwingsburg,ludwingsburg,alemania,5282
+27,estadio nacional,santiago,chile,5012
+28,leons centre,ontario,canada,5368
+29,crypto.com arena,los angeles,estados unidos,13472
+30,club rbx,santiago,chile,12317
+31,freiheitshalle,munich,alemania,14011
+32,fundo colmito,vina del mar,chile,6403
+33,pabellon fuente de san luis,valencia,espana,10270
+34,club chocolate,santiago,chile,14920
+35,porto alegre,porto alegre,brasil,14222
+36,olympiahalle,munich,alemania,7035
+37,sala santana,bilbao,espana,14886
+38,hipodromo de palermo,buenos aires,argentina,8657
+39,trafalgar centre paru,nelson,nueva zelanda,8563
+40,metropolitano rosario,buenos aires,argentina,10207
+41,wizink center,madrid,espana,7236
+42,la madeleine,bruselas,belgica,14397
+43,el teatro flores,buenos aires,argentina,5851
+44,la marina de valencia,valencia,espana,6384
+45,irving plaza,nueva york,estados unidos,8997
+46,festhalle,frankfurt,alemania,9411
+47,aeroparque juan pablo ii,medellin,colombia,5481
+48,estadio santa laura,santiago,chile,7402
+49,independance club,madrid,espana,5562
+50,club blondie,santiago,chile,13794
+51,raley field,sacramento,estados unidos,7672
+52,vivo rio,rio de janeiro,brasil,8177
+53,auckland,auckland,nueva zelanda,11794
+54,teatro cariola,santiago,chile,6587
+55,madison square garden,nueva york,estados unidos,5491
+56,cirque royal,bruselas,belgica,14484
+57,audio,sao paulo,brasil,14318
+58,sala paral,barcelona,espana,11675
+59,estadio monumental,buenos aires,argentina,11432
+60,studio the venue,auckland,nueva zelanda,10856
+61,aussie stadium,sydney,autralia,14668
+62,spark arena,auckland,nueva zelanda,5954
+63,teatro metropolitano,medellin,colombia,8875
+64,zag arena,hanover,alemania,12970
+65,mahuhu cres,auckland,nueva zelanda,12908
+66,palau sant jordi,barcelona,espana,8607
+67,ubs arena,nueva york,estados unidos,5178
+68,teatro gran rex,buenos aires,argentina,13979
+69,thunder bay,ontario,canada,7671
+70,"stage live, kalea",bilbao,espana,5485
+71,bikini barcelona,barcelona,espana,10033
+72,opera de sidney,sydney,autralia,13756
+73,youtube theatre,los angeles,estados unidos,10128
+74,rock city,valencia,espana,6034
+75,ace of spades,bogota,colombia,9389
+76,city hall el rodeo,medellin,colombia,7529
+77,the brooklyn monarch,nueva york,estados unidos,9460
+78,moon valencia,valencia,espana,13665
+79,palau de la musica catalana,barcelona,espana,10706
+80,the opera house,toronto,canada,12351
+81,warehouse live,texas,estados unidos,13814
+82,shubert theatre,boston,estados unidos,6686
+83,air canada centre,toronto,canada,11681
+84,estadio de futbol atanasio girardot,medellin,colombia,14563
+85,el huevo,valparaiso,chile,13529
+86,club providencia,santiago,chile,9438
+87,state theatre,sydney,autralia,12075
+88,multiespacio cultural,mendoza,argentina,7875
+89,tarpeian precinct lawn,sydney,autralia,5348
+90,explanada ciudad empresarial,santiago,chile,11101
+91,sala but,madrid,espana,12086
+92,sof q8 toinha brasil,brasilia,brasil,8468
+93,cupula multiespacio,santiago,chile,9161
+94,enmore theatre,newtown,autralia,8933
+95,jeunesse arena,rio de janeiro,brasil,6541
+96,estadio unico diego armando maradona,buenos aires,argentina,13954
+97,teatro municipal de valparaiso,valparaiso,chile,10531
+98,canadian tire centre,ottawa,canada,9101
+99,razzmatazz,barcelona,espana,14017
+100,sala apolo,barcelona,espana,10174
+101,casino de vina del mar,vina del mar,chile,8635
+102,canada tire centre,ontario,canada,12583
+103,bleu restaurant & dancing,los angeles,estados unidos,7620
+104,quinta vergara,vina del mar,chile,6718
+105,estadio rose bowl,los angeles,estados unidos,11985
+106,forest national,forest,belgica,6981
+107,allianz parque,sao paulo,brasil,6050
+108,salitre magico,bogota,colombia,8496
+109,velodromo de berlin,berlin,alemania,13631
+110,the empire theatre,ontario,canada,8747
+111,history,toronto,canada,5424
+112,big night live,boston,estados unidos,6563
+113,days bay pavilion,lower hutt,nueva zelanda,9683
+114,niceto club,buenos aires,argentina,7792
+115,columbianhalle,berlin,alemania,8504
+116,parque bicentenario cerrillos,santiago,chile,10422
+117,the forum,los angeles,estados unidos,14594
+118,estadio anz,sydney,autralia,12995
+119,teatro gramercy,nueva york,estados unidos,8833
+120,metropol,berlin,alemania,6596
+121,danforth music hall,toronto,canada,6136
+122,teatro colon,buenos aires,argentina,5966
+123,lanxess arena,cologne,alemania,10842
+124,movistar arena dg,cundinamarca,colombia,13576
+125,luna park,buenos aires,argentina,10265
+126,teatro teleton,santiago,chile,11376
+127,carioca club,sao paulo,brasil,7435
+128,espacio riesco,santiago,chile,6117
+129,kursaal oostende,ostend,belgica,11271
+130,club subterraneo,santiago,chile,5248
+131,e-werk,cologne,alemania,6652
+132,don haskins center,texas,estados unidos,13087
+133,the fillmore philadelphia,philadelphia,estados unidos,13994
+134,the anthem,washington dc,estados unidos,5741
+135,gran arena monticello,santiago,chile,12532
+136,sala la rivera,madrid,espana,8241
+137,firstontario centre,hamilton,canada,10704
+138,laut,barcelona,espana,11657
+139,palacio de las artes,valencia,espana,7782
+140,santo andre,sao paulo,brasil,13873
+141,chango club,madrid,espana,5661
+142,phoenix concert theatre,toronto,canada,9036
+143,radio city music hall,nueva york,estados unidos,8284
+144,unidad residencial la macarena,medellin,colombia,11742
+145,palais 12,bruselas,belgica,13882

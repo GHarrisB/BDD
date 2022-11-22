@@ -1,0 +1,204 @@
+id,categoria,precio,num_asiento,tipo,id_evento
+0,cancha,103.5,i47,completas,37
+1,cancha vip,100.0,p32,completas,27
+2,galeria,45.0,t43,completas,53
+3,platea alta,75.5,k46,pases diarios,17
+4,cancha,90.0,l31,completas,101
+5,galeria,57.5,b1,pases diarios,144
+6,andes,65.0,l8,pases diarios,72
+7,andes,58.5,d30,completas,13
+8,silla de ruedas,30.0,t1,completas,35
+9,cancha vip,100.0,p32,completas,11
+10,galeria,45.0,p42,completas,34
+11,galeria,45.0,t43,completas,103
+12,cancha vip,100.0,d1,completas,14
+13,silla de ruedas,40.0,l27,completas,47
+14,platea baja,90.0,h11,completas,104
+15,andes,65.0,k9,pases diarios,147
+16,cancha vip,100.0,d1,completas,156
+17,platea alta,70.0,b24,completas,112
+18,cancha,90.0,g29,completas,72
+19,andes,58.5,s16,completas,136
+20,cancha,90.0,l31,completas,29
+21,cancha vip,100.0,s19,completas,52
+22,cancha vip,110.0,k17,completas,94
+23,platea baja,90.0,h11,completas,49
+24,galeria,45.0,t43,completas,113
+25,cancha,95.5,p47,pases diarios,144
+26,platea baja,90.0,h11,completas,146
+27,cancha vip,100.0,d1,completas,34
+28,cancha,95.5,f33,pases diarios,144
+29,galeria,45.0,t43,completas,91
+30,platea alta,70.0,b24,completas,133
+31,cancha,90.0,s41,completas,140
+32,galeria,45.0,t4,completas,98
+33,platea alta,70.0,j36,completas,103
+34,platea baja,95.5,c19,pases diarios,0
+35,platea baja,90.0,t16,completas,12
+36,platea alta,70.0,j36,completas,12
+37,andes,58.5,c7,completas,48
+38,platea baja,103.5,i6,completas,82
+39,silla de ruedas,30.0,t1,completas,88
+40,cancha vip,100.0,l44,completas,8
+41,cancha,103.5,j37,completas,37
+42,platea baja,90.0,h11,completas,135
+43,cancha,90.0,b5,completas,56
+44,cancha vip,100.0,d1,completas,89
+45,cancha,90.0,l31,completas,112
+46,galeria,45.0,g1,completas,90
+47,platea alta,70.0,j36,completas,7
+48,platea alta,70.0,c34,completas,48
+49,platea alta,70.0,b24,completas,33
+50,platea alta,70.0,j36,completas,0
+51,andes,58.5,c38,completas,62
+52,cancha,90.0,j52,completas,120
+53,galeria,45.0,i44,completas,141
+54,platea baja,90.0,i44,completas,46
+55,platea alta,75.5,f45,pases diarios,154
+56,cancha,90.0,g26,completas,144
+57,platea baja,103.5,t15,completas,94
+58,cancha vip,105.0,p35,pases diarios,9
+59,cancha vip,100.0,l12,completas,51
+60,galeria,45.0,e54,completas,128
+61,galeria,45.0,t43,completas,16
+62,cancha vip,110.0,n33,completas,23
+63,platea baja,103.5,p11,completas,111
+64,platea alta,70.0,t4,completas,113
+65,silla de ruedas,30.0,t28,completas,101
+66,platea alta,70.0,b24,completas,155
+67,platea baja,90.0,h11,completas,18
+68,silla de ruedas,30.0,r22,completas,60
+69,cancha vip,100.0,d1,completas,54
+70,cancha vip,100.0,d1,completas,59
+71,cancha vip,100.0,p32,completas,79
+72,platea alta,70.0,j36,completas,30
+73,cancha vip,100.0,d1,completas,72
+74,cancha vip,100.0,d1,completas,21
+75,platea baja,90.0,h11,completas,103
+76,galeria,45.0,e54,completas,45
+77,cancha,90.0,f13,completas,10
+78,silla de ruedas,30.0,t1,completas,75
+79,silla de ruedas,30.0,t1,completas,139
+80,cancha,90.0,l31,completas,12
+81,platea baja,95.5,a51,pases diarios,94
+82,cancha,90.0,s41,completas,11
+83,andes,65.0,o48,pases diarios,94
+84,cancha vip,100.0,d1,completas,144
+85,cancha,90.0,f30,completas,55
+86,platea alta,80.5,e12,completas,60
+87,platea alta,75.5,h43,pases diarios,37
+88,andes,58.5,o9,completas,61
+89,platea baja,90.0,c12,completas,94
+90,platea alta,80.5,k3,completas,112
+91,cancha vip,100.0,d1,completas,90
+92,andes,58.5,g2,completas,2
+93,galeria,45.0,t43,completas,139
+94,cancha,95.5,b46,pases diarios,93
+95,platea alta,75.5,c40,pases diarios,130
+96,cancha,90.0,s41,completas,54
+97,cancha,90.0,f9,completas,134
+98,galeria,45.0,m57,completas,108
+99,galeria,50.7,f6,pases diarios,6
+100,cancha,95.5,a17,pases diarios,65
+101,platea alta,70.0,b24,completas,153
+102,silla de ruedas,40.0,h51,completas,47
+103,silla de ruedas,30.0,b24,completas,88
+104,galeria,50.7,j18,pases diarios,94
+105,cancha vip,100.0,p32,completas,6
+106,galeria,45.0,p8,completas,25
+107,cancha vip,100.0,j30,completas,135
+108,cancha,90.0,l31,completas,115
+109,galeria,57.5,f38,completas,47
+110,platea alta,70.0,j36,completas,62
+111,platea alta,70.0,b24,completas,13
+112,cancha vip,100.0,p32,completas,81
+113,galeria,45.0,e54,completas,42
+114,cancha vip,100.0,d1,completas,15
+115,galeria,45.0,t43,completas,35
+116,silla de ruedas,30.0,d21,completas,45
+117,silla de ruedas,35.5,p45,pases diarios,11
+118,cancha,90.0,s41,completas,152
+119,andes,58.5,s16,completas,72
+120,cancha vip,105.0,a5,pases diarios,6
+121,andes,58.5,f25,completas,134
+122,cancha,90.0,s41,completas,154
+123,andes,65.0,b51,pases diarios,6
+124,cancha vip,105.0,p50,pases diarios,11
+125,andes,58.5,i53,completas,102
+126,galeria,45.0,e54,completas,126
+127,cancha,95.5,f30,pases diarios,154
+128,platea alta,80.5,a21,completas,63
+129,cancha vip,100.0,p32,completas,63
+130,platea alta,80.5,k19,completas,18
+131,platea alta,70.0,j36,completas,96
+132,cancha,90.0,l31,completas,16
+133,cancha vip,100.0,p32,completas,48
+134,platea baja,90.0,h11,completas,19
+135,galeria,45.0,l22,completas,156
+136,platea baja,90.0,h11,completas,109
+137,cancha vip,105.0,g49,pases diarios,93
+138,cancha,90.0,s41,completas,0
+139,platea baja,95.5,b40,pases diarios,82
+140,cancha,103.5,g11,completas,65
+141,platea alta,70.0,j36,completas,116
+142,platea baja,90.0,t5,completas,103
+143,cancha vip,100.0,c13,completas,94
+144,galeria,45.0,t43,completas,115
+145,platea baja,103.5,l37,completas,21
+146,andes,58.5,s16,completas,56
+147,cancha,90.0,s41,completas,17
+148,cancha,103.5,a16,completas,18
+149,andes,58.5,e53,completas,87
+150,platea alta,70.0,b24,completas,82
+151,cancha,90.0,l31,completas,0
+152,andes,68.0,c54,completas,94
+153,platea alta,70.0,j36,completas,145
+154,galeria,45.0,c46,completas,24
+155,andes,65.0,n29,pases diarios,23
+156,cancha,90.0,a26,completas,28
+157,andes,65.0,d50,pases diarios,72
+158,cancha,95.5,i28,pases diarios,9
+159,platea baja,90.0,h11,completas,87
+160,cancha,90.0,l31,completas,75
+161,cancha,90.0,s41,completas,150
+162,cancha,103.5,p36,completas,0
+163,platea alta,70.0,j36,completas,75
+164,andes,58.5,s16,completas,21
+165,platea alta,70.0,b24,completas,42
+166,platea alta,70.0,b24,completas,156
+167,platea alta,70.0,b24,completas,12
+168,cancha vip,105.0,b44,pases diarios,17
+169,platea alta,70.0,b24,completas,46
+170,cancha,90.0,e28,completas,57
+171,andes,58.5,n2,completas,106
+172,andes,58.5,l22,completas,143
+173,platea baja,103.5,f28,completas,82
+174,cancha vip,100.0,b21,completas,23
+175,galeria,57.5,n31,completas,93
+176,cancha,90.0,l31,completas,81
+177,cancha vip,110.0,j41,completas,21
+178,platea alta,70.0,b24,completas,152
+179,cancha,90.0,o20,completas,84
+180,galeria,45.0,t43,completas,39
+181,platea alta,70.0,o35,completas,0
+182,silla de ruedas,40.0,a9,completas,130
+183,platea alta,70.0,b24,completas,128
+184,galeria,45.0,h20,completas,67
+185,cancha vip,110.0,j56,completas,37
+186,platea alta,70.0,c41,completas,155
+187,cancha vip,100.0,d1,completas,40
+188,cancha,90.0,l31,completas,23
+189,cancha,90.0,s41,completas,156
+190,silla de ruedas,30.0,c26,completas,18
+191,cancha vip,100.0,t1,completas,105
+192,andes,58.5,d48,completas,131
+193,galeria,45.0,t43,completas,145
+194,galeria,50.7,e27,pases diarios,24
+195,galeria,45.0,s13,completas,54
+196,cancha vip,100.0,d1,completas,43
+197,andes,58.5,c10,completas,125
+198,cancha,90.0,s41,completas,51
+199,galeria,45.0,b1,completas,155
+200,cancha vip,100.0,p32,completas,100
+201,cancha vip,100.0,p32,completas,59
+202,cancha,95.5,p22,pases diarios,9
