@@ -221,3 +221,6 @@ ls
 cd Entrega2
 ls
 exit
+git congif user.email "server@uc.cl"
+git config user.email "server@uc.cl"
+git config user.name "server"
